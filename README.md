@@ -1,5 +1,5 @@
 # ProjBM-Erros Encontrados
-Consulta de cliente e Funcionaria do Memso tipo está Sobre Escrevendo
+Consulta de cliente e Funcionaria do Mesmo tipo está Sobre Escrevendo
 
 Consulta de Saldo não mostra o Nome do Titular 
 
